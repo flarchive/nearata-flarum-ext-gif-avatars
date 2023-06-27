@@ -1,0 +1,4 @@
+nearata-gif-avatars:
+  admin:
+    permissions:
+      use_gifs: Can use GIFs
