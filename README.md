@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-gif-avatars.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-gif-avatars) or the [upstream repository](https://github.com/Nearata/flarum-ext-gif-avatars).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/nearata-flarum-ext-gif-avatars/tree/archive/v1.0.0) · License: `Unlicense` · Flarum: `^1.8`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/nearata-flarum-ext-gif-avatars/tree/archive/v1.0.0) · License: `Unlicense` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-06-27 | `^1.8` | [Browse](https://github.com/flarchive/nearata-flarum-ext-gif-avatars/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/nearata-flarum-ext-gif-avatars.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-gif-avatars.json)
 
